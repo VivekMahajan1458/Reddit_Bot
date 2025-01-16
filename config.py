@@ -10,4 +10,4 @@ GROQ_API_KEY = os.environ.get('gsk_RCjm58j54Udj6f06qRprWGdyb3FYbdmy4TwlswQKip8Bz
 GROQ_API_ENDPOINT = "https://api.groq.io/v1/search?api_key=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&query=test" 
 
 # Scheduling 
-POSTING_TIMES = ["19:04", "19:05"]  # Example: Post at 9 AM and 3 PM
+POSTING_TIMES = ["19:00", "22:00"]  # Example: Post at 9 AM and 3 PM
