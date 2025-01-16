@@ -12,21 +12,21 @@ This project is a Reddit bot that automatically generates content using the Groq
 - `pip` (Python package manager) for installing dependencies.
 
 ## Installation
-### **1. Clone this repository:**
+1. Clone this repository:
 
    ```bash
    git clone https://github.com/your-username/Reddit_Bot.git
    cd Reddit_Bot
 
-### **2. Create a virtual environment:**
+2. Create a virtual environment:
 
      python3 -m venv venv
    
-### **3. Activate the virtual environment:**
+3. Activate the virtual environment
 
      venv\Scripts\activate
 
-### **4. Install the required dependencies:**
+4. Install the required dependencies:
 
      pip install -r requirements.txt
 
