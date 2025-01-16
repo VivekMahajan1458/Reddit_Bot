@@ -45,15 +45,4 @@ Explain how to run your project after setting it up. In this case, you'll show h
 
    ```bash
    python reddit_bot.py
-
 3. The bot will post at the scheduled times defined in POSTING_TIMES.
-
-### **6. Dependencies**
-
-List the required libraries and tools for your project. These are typically Python libraries that need to be installed via `pip`. You can add them to `requirements.txt` and specify them here as well.
-
-```markdown
-## Dependencies
-- `requests`: For making HTTP requests to the Groq API.
-- `praw`: Python Reddit API Wrapper for interacting with Reddit.
-- `schedule`: For scheduling the posts at specific times.
