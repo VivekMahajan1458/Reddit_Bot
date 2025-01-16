@@ -33,7 +33,11 @@ This project is a Reddit bot that automatically generates content using the Groq
 
 This section guides users through the setup process, so they can run your project on their own machine.
 
+This section guides users through the setup process, so they can run your project on their own machine.
+
 ### **5. Usage Instructions**
+
+Explain how to run your project after setting it up. In this case, you'll show how to configure the API keys, edit the relevant files, and run the bot.
 
 ```markdown
 ## Usage
